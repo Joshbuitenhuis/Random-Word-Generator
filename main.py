@@ -4,7 +4,7 @@ from tkinter import *
 
 root = Tk()
 root.title("Random Genarater")
-
+root.geometry("200x500")
 
 
 
