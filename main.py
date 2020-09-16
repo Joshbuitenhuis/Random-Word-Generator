@@ -1,7 +1,7 @@
 
 import random
 from tkinter import *
-import nltk
+
 
 root = Tk()
 root.title("Random Genarater")
