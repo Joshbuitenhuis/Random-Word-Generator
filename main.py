@@ -1,8 +1,13 @@
 
 import random
 
+from tkinter import *
 
 
+
+
+root = Tk()
+root.title("Random Genarater")
 
 
 # using choice() to generate a random number from a
