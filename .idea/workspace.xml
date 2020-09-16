@@ -11,7 +11,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hagLBliAAq1nBzfKoAfrGoA9gk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,6 +61,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2753" y="337" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600288925818">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2753" y="337" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1600288925818" />
+    <state x="3079" y="387" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1600288827058">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3079" y="387" key="#com.intellij.ide.macro.MacrosDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1600288827058" />
+    <state x="3068" y="512" key="#com.intellij.tools.ToolEditorDialog" timestamp="1600288827973">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3068" y="512" key="#com.intellij.tools.ToolEditorDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1600288827973" />
     <state width="2561" height="408" key="GridCell.Tab.0.bottom" timestamp="1600256150277">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -75,5 +89,13 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2561" height="408" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1600256150277" />
+    <state x="1097" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600288966293">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1097" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1600288966293" />
+    <state x="3194" y="417" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1600288828756">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3194" y="417" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1600288828756" />
   </component>
 </project>
