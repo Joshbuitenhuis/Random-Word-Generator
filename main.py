@@ -3,10 +3,10 @@ import random
 
 
 
+a = 1
+while a == 1:
 
-
-# using choice() to generate a random number from a
-# given list.
-print("A random number from list is : ", end="")
-print(random.choice(["trash bin", "hamer", "window", "mouse", "brick"]))
-
+    print("A random word is : ", end="")
+    print(random.choice(["trash bin", "hamer", "window", "mouse", "brick"]))
+    print("Click Enter To Print Another Random Word")
+    input()
