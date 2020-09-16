@@ -1,6 +1,5 @@
 
 import random
-
 from tkinter import *
 
 root = Tk()
