@@ -13,7 +13,7 @@ def ranwordgen ():
     # using choice() to generate a random word from a
     # given list.
     ranword = random.choice(['trash bin', 'hamer', 'window', 'mouse', 'brick','bin','happy','boy','super','ugly','man','woman','five','four','three','two'])
-    ranwordtext = Label(root, text=ranword)
+    ranwordtext = Label(root, text=ranword,padx=50,pady=50,)
     ranwordtext.grid(row=1, column=0)
 
 #defines button
