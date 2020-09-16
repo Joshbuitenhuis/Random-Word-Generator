@@ -3,20 +3,15 @@ import random
 
 from tkinter import *
 
-
-
-
 root = Tk()
 root.title("Random Genarater")
 
-
-# using choice() to generate a random number from a
-# given list.
-print("A random number from list is : ", end="")
-print(random.choice(["trash bin", "hamer", "window", "mouse", "brick"]))
-
-# using randrange() to generate in range from 20
-# to 50. The last parameter 3 is step size to skip
-# three numbers when selecting.
-print("A random number from range is : ", end="")
-print(random.randrange(20, 50, 3))
+def ranword ():
+    # using choice() to generate a random word from a
+    # given list.
+    print(random.choice(["trash bin", "hamer", "window", "mouse", "brick"]))
+    ranwordtext = Label(root, text=random.choice(["trash bin", "hamer", "window", "mouse", "brick"]))
+    ranwordtext.grid(row=1, column=0)
+#defines button
+startbutton = Button(root, text="Genarate Random Word", height = 10, width =30,command=ranword)
+startbutton.grid(row=0, column=0)
