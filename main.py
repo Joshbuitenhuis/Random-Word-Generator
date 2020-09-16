@@ -12,7 +12,6 @@ def ranwordgen ():
     # using choice() to generate a random word from a
     # given list.
     ranword = random.choice(["trash bin", "hamer", "window", "mouse", "brick"])
-    print(random.choice(["trash bin", "hamer", "window", "mouse", "brick"]))
     ranwordtext = Label(root, text=ranword)
     ranwordtext.grid(row=1, column=0)
 
