@@ -14,4 +14,4 @@ print(random.choice(["trash bin", "hamer", "window", "mouse", "brick"]))
 # to 50. The last parameter 3 is step size to skip
 # three numbers when selecting.
 print("A random number from range is : ", end="")
-print(random.randrange(20, 50, 3))
+print(random.randrange(20, 50, 3)) 
