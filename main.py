@@ -1,6 +1,7 @@
 
 import random
 from tkinter import *
+import nltk
 
 root = Tk()
 root.title("Random Genarater")
@@ -11,7 +12,7 @@ root.geometry("200x500")
 def ranwordgen ():
     # using choice() to generate a random word from a
     # given list.
-    ranword = random.choice(["trash bin", "hamer", "window", "mouse", "brick"])
+    ranword = random.choice(['trash bin', 'hamer', 'window', 'mouse', 'brick','bin','happy','boy','super','ugly','man','woman','five','four','three','two'])
     ranwordtext = Label(root, text=ranword)
     ranwordtext.grid(row=1, column=0)
 
