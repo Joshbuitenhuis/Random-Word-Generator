@@ -5,7 +5,6 @@ from tkinter import *
 root = Tk()
 root.title("Random Word Generator")
 root.geometry("200x500")
-
 #sets a = 1 so console can loop
 a = 1
 def consoleran():   
