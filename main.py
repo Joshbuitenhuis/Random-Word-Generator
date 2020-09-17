@@ -18,8 +18,8 @@ def consoleran():
 def guiapp ():
 
     #defines gui elements
-    ranwordtext = Label(root, teext=random.choice(ranword),padx=50,pady=50,)
-    startbutton = Button(root, txt="Generate Random Word", height = 10, width =30,command=ranwordgen)
+    ranwordtext = Label(root, text=random.choice(ranword),padx=50,pady=50,)
+    startbutton = Button(root, text="Generate Random Word", height = 10, width =30,command=guiapp)
     #renders gui elements
     startbutton.grid(row=0, column=0)
     ranwordtext.grid(row=1, column=0)
