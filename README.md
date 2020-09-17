@@ -1,5 +1,4 @@
-Random Word Genarater
-
+Random Word Generator
 
 
 
