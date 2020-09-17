@@ -23,7 +23,7 @@ def ranwordgen ():
     ranwordtext.grid(row=1, column=0)
    
 
-ranword = ['trash bin', 'hamer', 'window', 'mouse', 'brick','bin','happy','boy','super','ugly','man','woman','five','four','three','two']
+ranword = ['trash bin', 'hamer', 'window', 'mouse', 'brick','bin','happy','boy','super','ugly','man','woman','five','four','three','two','one','six','why','how','boo','goo','fun','glue','pen','key','beg','I','mabey','so','no','yes','woo','yay','ok','go','nevermind','well','that','odd']
 print("Type Console to use the consolo interface and type gui to use the gui interface")
 b = input()
 if b == "Console":
