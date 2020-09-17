@@ -14,7 +14,7 @@ def consoleran():
         #choose random word to print
         print (random.choice(ranword))
         print("Click Enter To Print Another Random Word")
-        #wait's for user input until it choose anther word
+        # wait's for user input until it choose anther word
         input()
 def guiapp ():
 
