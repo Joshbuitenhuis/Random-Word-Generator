@@ -25,7 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -100,10 +100,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2561" height="374" key="GridCell.Tab.1.right/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1600341093293" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1600341005488">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="3103" y="359" key="SettingsEditor" timestamp="1600343660902">
+      <screen x="2560" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1600341005488" />
+    <state x="3103" y="359" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1600343660902" />
     <state x="1097" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600292234545">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
