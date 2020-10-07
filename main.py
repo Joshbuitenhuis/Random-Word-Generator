@@ -25,7 +25,7 @@ def guiapp ():
     ranwordtext.grid(row=1, column=0)
    
 #defines word list
-ranword = ['trash bin', 'hamer', 'window', 'mouse', 'brick','bin','happy','boy','super','ugly','man','woman','five','four','three','two','one','six','why','how','boo','goo','fun','glue','pen','key','beg','I','mabey','so','no','yes','woo','yay','ok','go','nevermind','well','that','odd','you','google','state','mate','great','oh','bad','good','mad','sad']
+ranword = ['trash bin', 'hamer', 'window', 'mouse', 'brick','bin','happy','boy','super','ugly','man','woman','five','four','three','two','one','six','why','how','boo','goo','fun','glue','pen','key','beg','I','mabey','so','no','yes','woo','yay','ok','go','nevermind','well','that','odd','you','google','state','mate','great','oh','bad','good','mad','sad' ,'test' , 'Program']
 
 #ask's user if they want to use console mode or gui mode
 print("Type Console to use the console interface and type gui to use the gui interface")
